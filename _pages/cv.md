@@ -20,4 +20,4 @@ Education
 
 Full CV
 ======
-My full CV can be downloaded [here](http://alanbhnguyen.github.io/files/cv_alanbhnguyen_nov2023.pdf). (Updated November 2023)
+My full CV can be downloaded [here](http://alanbhnguyen.github.io/files/cv_alanbhnguyen_nov2023_web.pdf). (Updated November 2023)
