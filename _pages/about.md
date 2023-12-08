@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Alan Bao-Huy Nguyen, a MSc. student currently at the University of Waterloo.
+Hello! I'm Alan Bao-Huy Nguyen, a MSc. student currently at the University of Waterloo.
 
 My research focuses on the large scale structure of the universe, baryon acoustic oscillations (BAO), galaxy catalogues, and novel statistical methods.
 
