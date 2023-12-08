@@ -20,3 +20,6 @@ Education
   * Research Area: Large Scale Structure, Baryon Acoustic Oscillations, Galaxy Catalogues, Statistical Methods
   * Advisor: Dr. Will J. Percival
 
+Full CV
+======
+My full CV can be downloaded [here](http://alanbhnguyen.github.io/files/cv_alanbhnguyen_nov2023.pdf). (Updated November 2023)
