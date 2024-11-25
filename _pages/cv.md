@@ -15,4 +15,4 @@ Education
 * M.Sc. in Physics, University of Waterloo, 2024
 * B.Sc. (Hons) in Physics, University of Manitoba, 2022
 
-See 
+See [https://alanbhnguyen.github.io/files/alanbhnguyen_cv_nov2024_online.pdf] for my full CV.
