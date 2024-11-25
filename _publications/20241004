@@ -1,0 +1,13 @@
+---
+title: "LOO-PIT: A sensitive posterior test"
+collection: publications
+category: manuscripts
+permalink: /publication/2010-10-01-paper-title-number-2
+excerpt: 'We apply a modification of the Leave One Out-Probability Integral Transform to (LOO-PIT) to interloper contaminated galaxy correlation functions'
+date: 2024-10-04
+venue: 'Submitted to JCAP'
+paperurl: 'https://arxiv.org/abs/2410.03507'
+citation: 'arXiv:2410.03507'
+---
+
+With the advent of the next generation of astrophysics experiments, the volume of data available to researchers will be greater than ever. As these projects will significantly drive down statistical uncertainties in measurements, it is crucial to develop novel tools to assess the ability of our models to fit these data within the specified errors. We introduce to astronomy the Leave One Out-Probability Integral Transform (LOO-PIT) technique. This first estimates the LOO posterior predictive distributions based on the model and likelihood distribution specified, then evaluates the quality of the match between the model and data by applying the PIT to each estimated distribution and data point, outputting a LOO-PIT distribution. Deviations between this output distribution and that expected can be characterised visually and with a standard Kolmogorov--Smirnov distribution test. We compare LOO-PIT and the more common χ2 test using both a simplified model and a more realistic astrophysics problem, where we consider fitting Baryon Acoustic Oscillations in galaxy survey data with contamination from emission line interlopers. LOO-PIT and χ2 tend to find different signals from the contaminants, and using these tests in conjunction increases the statistical power compared to using either test alone. We also show that LOO-PIT outperforms χ2 in certain realistic test cases.
