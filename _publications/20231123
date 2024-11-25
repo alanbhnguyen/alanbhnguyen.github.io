@@ -1,0 +1,13 @@
+---
+title: "Self-calibrating BAO measurements in the presence of Small Displacement Interlopers"
+collection: publications
+category: manuscripts
+permalink: /publication/
+excerpt: 'We develop a new method for calibrating BAO correlation function measurements contaminated by emission line interlopers'
+date: 2024-04-03
+venue: 'JCAP'
+paperurl: 'https://arxiv.org/abs/2311.14210'
+citation: 'Alan B.H. Nguyen et al JCAP04(2024)008'
+---
+
+Baryon Acoustic Oscillation (BAO) observations offer a robust method for measuring cosmological expansion. However, the BAO signal in a sample of galaxies can be diluted and shifted by interlopers — galaxies that have been assigned the wrong redshifts. Because of the slitless spectroscopic method adopted by the Roman and Euclid space telescopes, the galaxy samples resulting from single line detections will have relatively high fractions of interloper galaxies. Interlopers with a small displacement between true and false redshift have the strongest effect on the measured clustering. In order to model the BAO signal, the fraction of such interlopers and their clustering need to be accurately known. We introduce a new method to self-calibrate these quantities by shifting the contaminated sample towards or away from us along the line of sight by the interloper offset, and measuring the cross-correlations between these shifted samples. The contributions from the different components are shifted in scale in this cross-correlation compared to the auto-correlation of the contaminated sample, enabling the decomposition and extraction of the component terms. We demonstrate the application of the method using numerical simulations and show that an unbiased BAO measurement can be extracted. Unlike previous attempts to model the effects of contaminants, self-calibration allows us to make fewer assumptions about the form of the contaminants such as their bias.
