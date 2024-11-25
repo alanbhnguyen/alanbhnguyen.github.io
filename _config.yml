@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "anguyen.PNG"
   name             : "Alan Bao-Huy Nguyen"
-  pronouns         : "he/him" 
+  pronouns         : #
   bio              : "PhD. Student at Yale University"
   location         : "New Haven, CT"
   employer         : "Yale Department of Physics"
