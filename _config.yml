@@ -21,7 +21,7 @@ repository               : "alanbhnguyen/alanbhnguyen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "current_headshot.PNG"
+  avatar           : "current_headshot.png"
   name             : "Alan Bao-Huy Nguyen"
   pronouns         : #
   bio              : "PhD. Student at Yale University"
